@@ -3,8 +3,6 @@
 
 - 🌱 Atualmente estou aprendendo **HTML, CSS, JavaScript, SQL, Power BI**
 
-- 💬 Me pergunte sobre **SQL,PowerBI**
-
 - 📫 Você me acha através do e-mail **barbosasantosmatheus8@gmail.com**
 
 - 📄 Para conhecer mais sobre minhas experiências [https://www.linkedin.com/in/matheus-dos-santos-barbosa-28011b124/](https://www.linkedin.com/in/matheus-dos-santos-barbosa-28011b124/)
